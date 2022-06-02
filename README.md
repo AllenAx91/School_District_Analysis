@@ -43,8 +43,11 @@ It is clear from the below results that only Math scores, reading scores and the
 There was no substantial difference in the district and school summary due to the changes in ninth graders’ math and reading scores at Thomas High School. Relative to other schools, Thomas High School's performance improved by approximately 20%. However, the inclusion of NaNs did not make a big change to Scores by school spending, size and type.
 
 _Initial Analysis_
+
 ![](https://github.com/AllenAx91/School_District_Analysis/blob/main/Resources/THS_new.png)
+
 _Analysis using NaNs_
+
 ![](https://github.com/AllenAx91/School_District_Analysis/blob/main/Resources/THS_old.png)
 
 
